@@ -1,0 +1,12 @@
+{
+  "name" : "cc_mumbai",
+  "version" : "1.0.0",
+  "description" : "CC_Mumbai",
+  "main" : "cc_mumbai.js",
+  "oracleMobile" : {
+    "dependencies" : {
+      "apis" : { },
+      "connectors" : { }
+    }
+  }
+}
